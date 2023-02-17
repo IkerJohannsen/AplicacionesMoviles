@@ -1,0 +1,9 @@
+D:/Workspace/crypto/build/windows/runner/Debug/data/icudtl.dat
+D:/Workspace/crypto/build/windows/runner/Debug/flutter_windows.dll
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Workspace/crypto/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

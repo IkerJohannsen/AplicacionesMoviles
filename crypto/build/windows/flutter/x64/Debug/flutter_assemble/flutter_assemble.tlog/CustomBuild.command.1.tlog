@@ -1,0 +1,28 @@
+^D:\WORKSPACE\CRYPTO\BUILD\WINDOWS\CMAKEFILES\364F5FDCF1734C34CBC86D52BC722CB3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Flutter\flutter_windows_3.3.10-stable\flutter PROJECT_DIR=D:\Workspace\crypto FLUTTER_ROOT=D:\Flutter\flutter_windows_3.3.10-stable\flutter FLUTTER_EPHEMERAL_DIR=D:\Workspace\crypto\windows\flutter\ephemeral PROJECT_DIR=D:\Workspace\crypto FLUTTER_TARGET=D:\Workspace\crypto\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Workspace\crypto\.dart_tool\package_config.json D:/Flutter/flutter_windows_3.3.10-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\WORKSPACE\CRYPTO\BUILD\WINDOWS\CMAKEFILES\973A735F3A94805509AF82FC18460716\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\WORKSPACE\CRYPTO\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Workspace/crypto/windows -BD:/Workspace/crypto/build/windows --check-stamp-file D:/Workspace/crypto/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

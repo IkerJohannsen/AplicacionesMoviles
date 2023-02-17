@@ -16,3 +16,6 @@ Tarea 4 de la materia Programación de Dispoitivos Móviles.
 * Como usar un list builder asi como el separates para dar formato.
 * La versatilidad de usar elementos de formato para completar las cosas que necesitamos
 
+<p>
+  <img src="https://i.imgur.com/SWBnK5Z.png" width="240" height="480" title="Layout 1"/>
+</p>

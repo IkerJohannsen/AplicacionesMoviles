@@ -18,4 +18,6 @@ Tarea 4 de la materia Programación de Dispoitivos Móviles.
 
 <p>
   <img src="https://i.imgur.com/SWBnK5Z.png" width="240" height="480" title="Layout 1"/>
+  <img src="https://i.imgur.com/2rn5owq.png" width="240" height="480" title="Layout 2"/>
+  
 </p>
